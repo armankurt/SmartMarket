@@ -14,24 +14,6 @@
 - **Database**: PostgreSQL, MySQL
 - **Cloud Services**: AWS (EC2, S3, RDS, VPC, etc.)
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/armankurt/SmartMarket.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd SmartMarket
-    ```
-3. Install the necessary dependencies:
-    ```sh
-    npm install
-    ```
-4. Start the application:
-    ```sh
-    npm start
-    ```
-
 ## Project Overview
 
 ### Store Management
@@ -51,8 +33,8 @@ Members can update their information, access exclusive deals, and enjoy a custom
 ### Homepage
 ![Homepage](images/img1.png)
 
-### Product Page
-![Product Page](images/img2.png)
+### Membership Information
+![Membership Information](images/img2.png)
 
 ### Shopping Cart
 ![Shopping Cart](images/img3.png)
@@ -66,7 +48,17 @@ Members can update their information, access exclusive deals, and enjoy a custom
 ### AI Integration
 ![AI Integration](images/img6.png)
 
-### Membership Management
-![Membership Management](images/img7.png)
+### Membership Management Update
+![Membership Management Update](images/img7.png)
 
 ## Video Demonstration
+
+### AI Integration Overview
+[Watch the video](videos/video1.mov)
+
+### AI Integration Features
+[Watch the video](videos/video2.mov)
+
+### Search and Filter Features
+[Watch the video](videos/video3.mov)
+
