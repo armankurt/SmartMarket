@@ -1,6 +1,6 @@
 # SmartMarket
 
-**SmartMarket** is an innovative market system designed to streamline the shopping experience for both stores and users. 
+**SmartMarket** is an innovative market system designed to streamline the shopping experience for both stores and users.
 
 ## Features
 - **Store Management**: Stores can add, update, and manage products.
@@ -49,16 +49,36 @@ Members can update their information, access exclusive deals, and enjoy a custom
 ## Screenshots
 
 ### Homepage
-![Homepage](images/homepage.png)
+![Homepage](images/img1.png)
 
 ### Product Page
-![Product Page](images/product_page.png)
+![Product Page](images/img2.png)
 
 ### Shopping Cart
-![Shopping Cart](images/shopping_cart.png)
+![Shopping Cart](images/img3.png)
+
+### Store Management
+![Store Management](images/img4.png)
+
+### User Interaction
+![User Interaction](images/img5.png)
+
+### AI Integration
+![AI Integration](images/img6.png)
+
+### Membership Management
+![Membership Management](images/img7.png)
 
 ## Video Demonstration
-Watch the full project demonstration [here](videos/demo.mp4).
+
+### Project Overview
+[Watch the full project overview](videos/video1.mov)
+
+### Feature Demonstration
+[Watch the feature demonstration](videos/video2.mov)
+
+### User Guide
+[Watch the user guide](videos/video3.mov)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
