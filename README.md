@@ -56,13 +56,6 @@ https://github.com/user-attachments/assets/e8b0f8de-fdf2-43ba-bcd0-cc1f629c6290
 ### AI Integration
 ![AI Integration](images/img6.png)
 
-### Membership Management Update
-![Membership Management Update](images/img7.png)
+### Edit Product
+![Edit Product](images/img7.png)
 
-
-
-### Search and Filter Features
-<video width="320" height="240" controls>
-  <source src="videos/video3.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
