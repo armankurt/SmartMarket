@@ -70,15 +70,3 @@ Members can update their information, access exclusive deals, and enjoy a custom
 ![Membership Management](images/img7.png)
 
 ## Video Demonstration
-
-### Project Overview
-[Watch the full project overview](videos/video1.mov)
-
-### Feature Demonstration
-[Watch the feature demonstration](videos/video2.mov)
-
-### User Guide
-[Watch the user guide](videos/video3.mov)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
