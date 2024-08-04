@@ -54,11 +54,19 @@ Members can update their information, access exclusive deals, and enjoy a custom
 ## Video Demonstration
 
 ### AI Integration Overview
-[Watch the video](videos/video1.mov)
+<video width="320" height="240" controls>
+  <source src="videos/video1.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### AI Integration Features
-[Watch the video](videos/video2.mov)
+<video width="320" height="240" controls>
+  <source src="videos/video2.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Search and Filter Features
-[Watch the video](videos/video3.mov)
-
+<video width="320" height="240" controls>
+  <source src="videos/video3.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
