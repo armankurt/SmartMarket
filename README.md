@@ -28,6 +28,14 @@ With our AI tools, users receive personalized product recommendations. The AI an
 ### Membership Management
 Members can update their information, access exclusive deals, and enjoy a customized shopping experience.
 
+## Video Demonstration
+https://github.com/user-attachments/assets/8abfb40d-9556-4157-8e75-ff38f5b820c5
+
+https://github.com/user-attachments/assets/50258925-73c7-4b98-a6bc-b818dd9f43f9
+
+https://github.com/user-attachments/assets/e8b0f8de-fdf2-43ba-bcd0-cc1f629c6290
+
+
 ## Screenshots
 
 ### Homepage
@@ -51,19 +59,7 @@ Members can update their information, access exclusive deals, and enjoy a custom
 ### Membership Management Update
 ![Membership Management Update](images/img7.png)
 
-## Video Demonstration
 
-### AI Integration Overview
-<video width="320" height="240" controls>
-  <source src="videos/video1.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### AI Integration Features
-<video width="320" height="240" controls>
-  <source src="videos/video2.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ### Search and Filter Features
 <video width="320" height="240" controls>
