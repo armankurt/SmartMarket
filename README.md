@@ -10,9 +10,8 @@
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: ASP.NET, .NET C#
-- **Database**: PostgreSQL, MySQL
-- **Cloud Services**: AWS (EC2, S3, RDS, VPC, etc.)
+- **Backend**: PHP
+- **Database**: MySQL
 
 ## Project Overview
 
